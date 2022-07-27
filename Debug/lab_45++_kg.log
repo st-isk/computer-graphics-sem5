@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\alexander\source\repos\lab_45++_kg\lab_45++_kg\main.cpp(118): warning C4244: аргумент: преобразование "float" в "size_t", возможна потеря данных
+c:\users\alexander\source\repos\lab_45++_kg\lab_45++_kg\main.cpp(192): warning C4244: аргумент: преобразование "float" в "size_t", возможна потеря данных
+c:\users\alexander\source\repos\lab_45++_kg\lab_45++_kg\main.cpp(291): warning C4305: -=: усечение из "double" в "float"
+c:\users\alexander\source\repos\lab_45++_kg\lab_45++_kg\main.cpp(295): warning C4305: +=: усечение из "double" в "float"
+c:\users\alexander\source\repos\lab_45++_kg\lab_45++_kg\main.cpp(318): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\alexander\source\repos\lab_45++_kg\lab_45++_kg\main.cpp(320): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\alexander\source\repos\lab_45++_kg\lab_45++_kg\main.cpp(321): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\alexander\source\repos\lab_45++_kg\lab_45++_kg\main.cpp(322): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\alexander\source\repos\lab_45++_kg\lab_45++_kg\main.cpp(323): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  lab_45++_kg.vcxproj -> C:\Users\Alexander\source\repos\lab_45++_kg\Debug\lab_45++_kg.exe
